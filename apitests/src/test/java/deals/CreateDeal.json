@@ -1,0 +1,44 @@
+ {
+        "dealId": "a702d66d-a844-40a0-8c9f-b497b429b3ef",
+        "code": "SIVATEST3",
+        "description": "SIVA RETEST",
+        "dealStatus": "active",
+        "dealType": "standard",
+        "parkCode": "SADO",
+        "promotionalContent": {
+            "image": "https://test.photos/200",
+            "text": "test"
+        },
+        "discountStructureId": "51175645-21a3-4d8c-9f4b-002e57704e8f",
+        "dealConditions": [
+            {
+                "conditionId": "f38402b3-025d-42ec-8208-86aba1ae3b86",
+                "conditionValue": "4"
+            }
+        ],
+        "dealAvailability": {
+            
+"bookingDateRange": ["2024-10-10T00:00:00Z", "2028-10-30T23:59:59Z"], 
+"stayDateRange": ["2024-10-01T00:00:00Z", "2028-10-30T23:59:59Z"], 
+"blackoutDateRanges": [ 
+   ["2024-10-01T00:00:00Z", "2028-10-30T23:59:59Z"]
+     ]
+
+},
+        "hidden": 0,
+        "promocode": "string",
+        "checkInDays": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+        ],
+        "parkPolicyConditions": "string",
+        "accommodationInclusionCondition": "all",
+        "dealAccommodations": null,
+        "dealCampaign": 0,
+        "dealApprovalStatus": "drafted"
+    }

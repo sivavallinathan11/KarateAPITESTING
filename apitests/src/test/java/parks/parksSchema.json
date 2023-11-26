@@ -1,0 +1,11 @@
+{
+            "parkCode": ##string,
+            "parkName": ##string,
+            "brands": ##array,
+            "parkaddressStreet": ##string,
+            "parkaddressSuburb": ##string,
+            "parkaddressPostcode": ##string,
+            "parkaddressState": ##string,
+            "parkAddressCountry": ##string,
+	    "accommodations": ##array
+ }

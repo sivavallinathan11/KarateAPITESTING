@@ -1,0 +1,15 @@
+{
+        "id": ##uuid,
+        "name": ##string,
+        "status": ##string,
+        "dealType": ##string,
+        "promotionalContent": {
+            "image": ##string,
+            "text": ##string
+        },
+        "dealContentPolicyId": ##uuid,
+        "discountStructureId": ##uuid,
+        "brands": ## array,
+        "conditions": ## array
+  
+}
